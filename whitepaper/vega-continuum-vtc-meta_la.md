@@ -1,4 +1,4 @@
-# VEGA CONTINUUM VTC META
+# VEGA Continuum VTC Meta
 
 ## A Conceptual White Paper
 
@@ -11,21 +11,21 @@
 
 ## Executive Summary
 
-This white paper introduces **VEGA CONTINUUM VTC META** as a conceptual framework within the Resonance Data and Quantum-Inspired Resonance Computing (QIRC) paradigm.
+This white paper introduces **VEGA Continuum VTC Meta** as a conceptual framework within the Resonance Data and Quantum-Inspired Resonance Computing (QIRC) paradigm.
 
-VEGA CONTINUUM VTC META is not an implementation, algorithm, or product. It is a theoretical contribution to meaning-based computation.
+VEGA Continuum VTC Meta is not an implementation, algorithm, or product. It is a theoretical contribution to meaning-based computation.
 
 ---
 
 ## 1. Introduction
 
-Modern AI systems excel at processing information but struggle to maintain meaning, insight, and wisdom over time. VEGA CONTINUUM VTC META addresses this gap conceptually.
+Modern AI systems excel at processing information but struggle to maintain meaning, insight, and wisdom over time. VEGA Continuum VTC Meta addresses this gap conceptually.
 
 ---
 
 ## 2. Definition
 
-**VEGA CONTINUUM VTC META** is defined as:
+**VEGA Continuum VTC Meta** is defined as:
 
 - A conceptual framework for meaning representation
 - Part of the Vega Continuum ecosystem
@@ -64,7 +64,7 @@ Modern AI systems excel at processing information but struggle to maintain meani
 
 ## 6. Ecosystem Context
 
-VEGA CONTINUUM VTC META is part of:
+VEGA Continuum VTC Meta is part of:
 
 - **VEGA** – The operating system of meaning
 - **INŞÆVREN** – Universal creation framework

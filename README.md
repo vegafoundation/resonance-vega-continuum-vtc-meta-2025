@@ -1,4 +1,4 @@
-# VEGA CONTINUUM VTC META
+# VEGA Continuum VTC Meta
 
 ## Resonance Data & QIRC Framework
 
@@ -10,7 +10,7 @@
 
 ## Overview
 
-This repository contains the conceptual documentation for **VEGA CONTINUUM VTC META**, a framework within the Resonance Data and Quantum-Inspired Resonance Computing (QIRC) paradigm.
+This repository contains the conceptual documentation for **VEGA Continuum VTC Meta**, a framework within the Resonance Data and Quantum-Inspired Resonance Computing (QIRC) paradigm.
 
 ---
 
@@ -52,7 +52,7 @@ This repository adheres to the **Vega Safety Protocol (VSP)**:
 ## Citation
 
 ```
-Vega, A. E. (2025). VEGA CONTINUUM VTC META. Vega Foundation.
+Vega, A. E. (2025). VEGA Continuum VTC Meta. Vega Foundation.
 ```
 
 ---
